@@ -92,7 +92,7 @@ Here's the breakdown of the most demanded skills for data analysts in India in 2
 -	**Python** follows closely behind among the top-paying roles.
 - **Tableau** is also highly sought after. Other skills like **R**, **Snowflake** **Pandas** and **Excel** show varying degrees of demand.
 
-![Top Paying Job Skills](Project_sql\assets\top_paying_skills.png)
+![top_paying_skills](https://github.com/akhilaa94/SQL_Project_Data_Job_Analysis/assets/169245384/9002f1e0-1073-4ebc-a433-088b02b80a0d)
 *This image was created using Microsoft Excel after exporting the results of the above query*
 
 ### 3. In-Demand Skills for Data Analysts

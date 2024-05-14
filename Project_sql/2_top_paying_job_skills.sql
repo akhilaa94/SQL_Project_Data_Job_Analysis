@@ -1,3 +1,6 @@
+/* What skills are required for these top-paying jobs?
+*/
+
 WITH top_paying_jobs AS (
 
     SELECT

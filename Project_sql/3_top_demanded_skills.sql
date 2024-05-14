@@ -1,3 +1,6 @@
+/*What skills are most in demand for data analysts?
+*/
+
 SELECT
     skills,
     COUNT(skills_job_dim.job_id) AS demand_count
